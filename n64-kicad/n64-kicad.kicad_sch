@@ -1,0 +1,51 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 62362fc5-d8b0-453c-8cf3-9bf5adb1c5ec)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 38.1 43.18) (size 12.7 5.08) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2087c345-615f-4492-b530-065219fa6c1e)
+    (property "Sheetname" "NUS-CPU-(P)-01-PicoDVI" (at 38.1 42.4684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "NUS-CPU-(P)-01-PicoDVI.kicad_sch" (at 38.1 48.8446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 38.1 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "n64-kicad"
+        (path "/62362fc5-d8b0-453c-8cf3-9bf5adb1c5ec" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 38.1 25.4) (size 12.7 5.08) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 702eb8d5-895e-4c34-90ce-20d99f2fa9dd)
+    (property "Sheetname" "NUS-CPU-(P)-01" (at 38.1 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "NUS-CPU-(P)-01.kicad_sch" (at 38.1 31.0646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "n64-kicad"
+        (path "/62362fc5-d8b0-453c-8cf3-9bf5adb1c5ec" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
