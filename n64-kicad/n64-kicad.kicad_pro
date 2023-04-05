@@ -329,11 +329,15 @@
     ],
     [
       "702eb8d5-895e-4c34-90ce-20d99f2fa9dd",
-      "NUS-CPU-(P)-01"
+      "NUS-CPU(P)-01"
     ],
     [
       "2087c345-615f-4492-b530-065219fa6c1e",
-      "NUS-CPU-(P)-01-PicoDVI"
+      "NUS-CPU(P)-01-PicoDVI"
+    ],
+    [
+      "fe0f5ce9-be45-40ad-8b42-2b325418535e",
+      "NUS-CPU-03"
     ]
   ],
   "text_variables": {}
