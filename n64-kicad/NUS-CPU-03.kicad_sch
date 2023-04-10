@@ -3941,6 +3941,11 @@
     (effects (font (size 5.08 5.08)) (justify left bottom))
     (uuid 2a971f6b-124c-4c78-a532-4469470379a0)
   )
+  (text "WARNING: KiCad bug\nDon't highlight this bus, it will crash"
+    (at 223.52 53.34 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 79ed2f43-42bc-4033-8ae8-f572a78c4fea)
+  )
   (text "NUS-CPU-03" (at 45.72 25.4 0)
     (effects (font (size 5.08 5.08)) (justify left bottom))
     (uuid fe263c21-e316-4df0-879e-361de9f5392a)
